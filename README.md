@@ -2,7 +2,7 @@
 
 一个基于离子色谱仪简化版的实验课设。
 
-
+[详细开发日志](https://blog.csdn.net/Lonelyooacz/article/details/103764968)
 
 ## 软件架构
 
